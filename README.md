@@ -14,4 +14,4 @@ Web : enesbilen.com
 - classNames
 
 <h3>Screen</h3>
-![alt text](http://url/to/react-link-share.jpg)
+<img src="react-link-share.jpg" width="auto">
