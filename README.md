@@ -1,8 +1,11 @@
-# React + Vite
+# First link sharing site I built with React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+You can contact me for your questions and suggestions. 
+If you see my mistakes and tell me, it can be very useful for me to improve.
+Web : enesbilen.com
 
-Currently, two official plugins are available:
+# React ile yaptığım ilk bağlantı paylaşım sitesi
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Soru ve önerileriniz için benimle iletişime geçebilirsiniz. 
+Hatalarımı görüp bana söylerseniz geliştirmem için çok faydalı olabilir.
+Web : enesbilen.com
