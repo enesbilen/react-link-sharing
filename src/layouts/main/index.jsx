@@ -5,7 +5,7 @@ import Footer from "./footer";
 export default function MainLayout() {
     return(
         <div>
-            <div className="w-[500px] mx-auto">
+            <div>
             <Header />
             <Outlet />
             <Footer />

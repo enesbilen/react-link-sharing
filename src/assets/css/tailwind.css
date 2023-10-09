@@ -4,5 +4,11 @@
 
 
 body {
-    @apply bg-black text-white text-[15px] antialiased;
+    @apply bg-black text-white text-[15px] antialiased w-[500px] mx-auto;
 }
+
+@media (max-width: 768px) {
+    body {
+        @apply w-[250px];
+    }
+  }
